@@ -1,0 +1,23 @@
+.navbar {
+    background: #EB3300;
+    color: white;
+    background-image: none;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
+
+.modal-lg {
+    max-width: 80% !important;
+}
+.list-inline-item {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none
+}
+
